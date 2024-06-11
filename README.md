@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Noor Muhammad</h1>
+<h1 align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Noor+Muhammad!" alt="Typing SVG" /></a></h1>
+
 <h3 align="center">Passionate React Native Developer from Pakistan</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/795597/screenshots/6081444/mobile_development2.gif" />
 
 <p align="left">
   <img
@@ -20,6 +23,7 @@
       height="30"
       width="40"
   /></a>
+  <a href="https://instagram.com/noormuhammaddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noormuhammaddev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -86,21 +90,13 @@
             </a>
               </p>
 
-<p>
+<p style="display: flex">
   <img
-    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=noormuhammad-dev&show_icons=true&locale=en&layout=compact"
     alt="noormuhammad-dev"
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=noormuhammad-dev&show_icons=true&locale=en"
-    alt="noormuhammad-dev"
-  />
-</p>
 
 <p>
   <img
